@@ -1,0 +1,59 @@
+body{
+    background-color: #F0F8FF;
+}
+.playwrite-ie-unic {
+  font-family: "Playwrite IE", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+.paragFirst{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80%;
+}
+#nomeTitle{
+    text-align:center;
+    font-size:300%;
+    font-weight: bold;
+}
+#perfilImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: auto;
+ }
+ #captionImg{
+    text-align:center;
+    font-style: italic;
+ }
+ .sectionTitle{
+    font-size:200%;
+    font-weight: bold;
+    background-color: #87CEFA;
+    color: #FFFAFA;
+ }
+ .pontosFirst{
+    font-weight: bold;
+ }
+ .what{
+    text-decoration: underline;
+ }
+ .where{
+    text-decoration: underline wavy red;
+ }
+ .when{
+    font-style: oblique;
+ }
+ a:hover{
+    color: #FF4500;
+    font-size:300%;
+ }
+ a[target="_blank"]{
+    background-color: aquamarine;
+ }
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+
